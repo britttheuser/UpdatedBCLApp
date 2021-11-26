@@ -1,0 +1,11 @@
+name: shiny_app_demo
+title:
+username:
+account: britttheuser
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5211381
+bundleId: 5297755
+url: https://britttheuser.shinyapps.io/shiny_app_demo/
+when: 1637965332.8162
+lastSyncTime: 1637965332.81621
